@@ -30,7 +30,7 @@ Baked ziti is a pasta dish that is easy to prepare in a large tray and serve to 
 3. Cook the sausage or ground beef in a pan until browned.
 4. Add the marinara sauce and mix together.
 
-5. ## Beverage Pairing
+## Beverage Pairing
 
 Sparkling water with lemon pairs well with Baked Ziti because it is refreshing and helps balance the heavier pasta and cheese.
 6. Combine the pasta, sauce, and ricotta cheese.
