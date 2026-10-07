@@ -29,8 +29,12 @@ Baked ziti is a pasta dish that is easy to prepare in a large tray and serve to 
 2. Cook the ziti according to the package instructions and drain.
 3. Cook the sausage or ground beef in a pan until browned.
 4. Add the marinara sauce and mix together.
-5. Combine the pasta, sauce, and ricotta cheese.
-6. Transfer everything into a baking dish.
-7. Top with mozzarella and Parmesan cheese.
-8. Bake for 25-30 minutes until the cheese is melted.
-9. Let it cool for a few minutes before serving.
+
+5. ## Beverage Pairing
+
+Sparkling water with lemon pairs well with Baked Ziti because it is refreshing and helps balance the heavier pasta and cheese.
+6. Combine the pasta, sauce, and ricotta cheese.
+7. Transfer everything into a baking dish.
+8. Top with mozzarella and Parmesan cheese.
+9. Bake for 25-30 minutes until the cheese is melted.
+10. Let it cool for a few minutes before serving.
