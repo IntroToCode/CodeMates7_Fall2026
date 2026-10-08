@@ -12,6 +12,7 @@
 | Cook Time | e.g. 30 minutes |
 | Total Time | e.g. 45 minutes |
 | Servings | e.g. 4 |
+| Spice Level | 🌶️ (mild) / 🌶️🌶️ (medium) / 🌶️🌶️🌶️ (hot) |
 | Difficulty | Easy / Medium / Hard |
 | Tags | e.g. vegetarian, quick, make-ahead, dessert |
 
