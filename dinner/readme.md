@@ -1,36 +1,40 @@
-# Replace with recipe name
+# Baked Ziti
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+Baked ziti is a pasta dish that is easy to prepare in a large tray and serve to a group.
 
 ## Stats
 
 | Field | Info |
-|-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+|---|---|
+| Prep Time | 20 minutes |
+| Cook Time | 30 minutes |
+| Servings | 6-8 |
 
-<!-- Note the fields in the markdown table -->
+## Ingredients
 
-### Ingredients:
-- [ ] add ingredient here
-      
-<!-- List every ingredient -->
+- 1 pound ziti pasta
+- 1 tablespoon olive oil
+- 1 pound Italian sausage or ground beef
+- 1 jar marinara sauce
+- 15 ounces ricotta cheese
+- 2 cups shredded mozzarella cheese
+- 1/2 cup grated Parmesan cheese
+- Salt and pepper to taste
 
-### Steps for preparation:
+## Instructions
 
-1. Step one.
-2. Step two.
-3. Step three.
-<!-- Each step should be a complete action. Assume the reader has never made this before. -->
+1. Preheat the oven to 375°F.
+2. Cook the ziti according to the package instructions and drain.
+3. Cook the sausage or ground beef in a pan until browned.
+4. Add the marinara sauce and mix together.
+5. Combine the pasta, sauce, and ricotta cheese.
+6. Transfer everything into a baking dish.
+7. Top with mozzarella and Parmesan cheese.
+8. Bake for 25-30 minutes until the cheese is melted.
+9. Let it cool for a few minutes before serving.
 
-### Notes:
+## Beverage Pairing
 
-<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
-
-### Author(s):
+Sparkling water with lemon pairs well with Baked Ziti because it is refreshing and helps balance the heavier pasta and cheese.
