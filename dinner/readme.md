@@ -34,3 +34,7 @@ Baked ziti is a pasta dish that is easy to prepare in a large tray and serve to 
 7. Top with mozzarella and Parmesan cheese.
 8. Bake for 25-30 minutes until the cheese is melted.
 9. Let it cool for a few minutes before serving.
+
+## Beverage Pairing
+
+Sparkling water with lemon pairs well with Baked Ziti because it is refreshing and helps balance the heavier pasta and cheese.
