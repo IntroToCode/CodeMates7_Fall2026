@@ -11,21 +11,21 @@ A warm, creamy rice pudding flavored with cinnamon and citrus peel, commonly eat
 | Prep Time | 10 minutes (plus optional 20-minute soak) |
 | Cook Time | 40 minutes |
 | Total Time | 50 minutes |
-| Servings | 6 |
+| Servings | 12 |
 | Difficulty | Easy |
 | Tags | vegetarian, gluten-free, make-ahead, breakfast, sweet |
 
 ### Ingredients:
-- [ ] 1 cup long-grain white rice
-- [ ] 2 cups water
-- [ ] 1 cinnamon stick (Mexican/Ceylon *canela* if possible)
-- [ ] 1 strip lime or orange peel
+- [ ] 2 cup long-grain white rice
+- [ ] 4 cups water
+- [ ] 2 cinnamon stick (Mexican/Ceylon *canela* if possible)
+- [ ] 2 strip lime or orange peel
 - [ ] Pinch of salt
-- [ ] 4 cups whole milk
-- [ ] 1 can (14 oz) sweetened condensed milk (or ½ cup sugar)
-- [ ] 1 tsp vanilla extract
+- [ ] 8 cups whole milk
+- [ ] 2 can (14 oz) sweetened condensed milk (or ½ cup sugar)
+- [ ] 2 tsp vanilla extract
 - [ ] Ground cinnamon, for topping
-- [ ] ¼ cup raisins (optional)
+- [ ] 1/2 cup raisins (optional)
 
 ### Steps for preparation:
 
