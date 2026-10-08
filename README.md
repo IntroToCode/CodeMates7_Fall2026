@@ -1,6 +1,6 @@
 # Recipe Index
 
-- Breakfast: TBD
+- Breakfast: [Arros Con Leche](breakfast/readme.md)
 - Lunch: [Turkey Pesto Sandwich](lunch/readme.md)
 - Dinner: [Baked Ziti](dinner/readme.md)
 
