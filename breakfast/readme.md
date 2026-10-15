@@ -8,12 +8,15 @@ A warm, creamy rice pudding flavored with cinnamon and citrus peel, commonly eat
 
 | Field | Info |
 |-------|------|
-| Prep Time | 10 minutes (plus optional 20-minute soak) |
-| Cook Time | 40 minutes |
-| Total Time | 50 minutes |
-| Servings | 12 |
-| Difficulty | Easy |
-| Tags | vegetarian, gluten-free, make-ahead, breakfast, sweet |
+| Prep Time | e.g. 15 minutes |
+| Cook Time | e.g. 30 minutes |
+| Total Time | e.g. 45 minutes |
+| Servings | e.g. 4 |
+| Spice Level | 🌶️ (mild) / 🌶️🌶️🌶️ (medium) / 🌶️🌶️🌶️ (hot) |
+| Difficulty | Easy / Medium / Hard |
+| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+
+<!-- Note the fields in the markdown table -->
 
 ### Ingredients:
 - [ ] 2 cup long-grain white rice
