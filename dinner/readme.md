@@ -11,6 +11,7 @@ Baked ziti is a pasta dish that is easy to prepare in a large tray and serve to 
 | Prep Time | 20 minutes |
 | Cook Time | 30 minutes |
 | Servings | 6-8 |
+| Spice Level | 🌶️ (mild) |
 
 ## Ingredients
 

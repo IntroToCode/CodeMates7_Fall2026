@@ -8,12 +8,15 @@ A toasted turkey sandwich with basil pesto, melted mozzarella, and fresh tomato 
 
 | Field | Info |
 |-------|------|
-| Prep Time | 10 minutes |
-| Cook Time | 5 minutes |
-| Total Time | 15 minutes |
-| Servings | 1 |
-| Difficulty | Easy |
-| Tags | quick, lunch, sandwich, toasted |
+| Prep Time | e.g. 15 minutes |
+| Cook Time | e.g. 30 minutes |
+| Total Time | e.g. 45 minutes |
+| Servings | e.g. 4 |
+| Spice Level | 🌶️ (mild) / 🌶️🌶️ (medium) / 🌶️🌶️🌶️ (hot) |
+| Difficulty | Easy / Medium / Hard |
+| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+
+<!-- Note the fields in the markdown table -->
 
 ### Ingredients:
 - [ ] 1 ciabatta roll (or 2 thick slices of sourdough)
